@@ -1,0 +1,3 @@
+import keys
+
+PRIVATE_FOLDER_KEY = keys.PRIVATE_FOLDER_KEY
